@@ -27,6 +27,10 @@ header{
 
 section{
     color: #FFF;
+    background-image: url('../imagens/people.jpg');
+    padding: 20px;
+    overflow: hidden;
+    background-size: cover;
 }
 
 section h2{
